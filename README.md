@@ -64,12 +64,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Submit a pull request
 
-## **License**
-
-This project is licensed under:
-
-[Weaver Laboratories License 1.0 for General Parties and Persons (WL1.0GP)](https://docs.bayardlab.org/wl1.0gp-license-terms#d8e3476e1a444e7bbfe1675afdd9caf0)
-
-## **Contact**
-
-For any questions or inquiries, please contact the Bayard Lab team at [contact@bayardlab.org](mailto:contact@bayardlab.org).
